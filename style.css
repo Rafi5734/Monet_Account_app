@@ -1,0 +1,13 @@
+/* css class */
+.money-counter-main-section {
+    width: 100%;
+    height: 130vh;
+    /* border: 1px solid #000; */
+}
+.money-counter-calculation-section {
+    /* border: 1px solid #000; */
+    background-color: #f8f8f8;
+}
+.btn-outline-primary {
+    margin-left: 270px;
+}
